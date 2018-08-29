@@ -1,2 +1,2 @@
-# Glowing-Button-On-Off-Effect-CSS3
-Glowing Button On Off effect made with CSS3 and HTML
+# Neon-Button-On-Off-Effect-CSS3
+Neon Button On Off effect made with CSS3 and HTML
